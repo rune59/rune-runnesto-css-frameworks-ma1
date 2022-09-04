@@ -1,0 +1,39 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.wrapper{
+    flex: 1 0 auto;
+}
+
+
+footer{
+    background-color: #f8f9fa!important;
+    color: #4b4b4b;
+    padding: 1rem;
+}
+.footer-styling{
+    display: flex;
+    font-size: 0.8rem;
+    padding-left: 80px;
+    padding-right: 80px;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+@media screen and (max-width:768){
+.footer-styling{
+    display: flex;
+    font-size: 0.8rem;
+    align-items: center;
+    flex-direction: column;
+}
+}

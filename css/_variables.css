@@ -1,0 +1,20 @@
+:root {
+    --color-bg-container: #E8E8E8;
+
+    --color-heading-txt:#463F3A;
+
+    --color-square-grey-bg:#F4F3EE;
+    --color-square-red-bg:#C32C72; 
+    --color-square-red-border: #FFFFFF;
+    --color-square-white-bg:#FFFFFF;
+    --color-square-white-border: #C32C72;
+
+    /* --colour-nav-bg: #f8f9fa!important; */
+    --color-nav-bg: #F4F3EE;
+    --color-nav-navbar-txt: #262626;
+    --color-nav-menu-txt:#8D8D8D;
+
+    /* --colour-footer-bg: #f8f9fa!important; */
+    --color-footer-bg: #F4F3EE;
+    --color-nav-text: #8D8D8D;
+}

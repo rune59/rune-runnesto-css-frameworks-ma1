@@ -1,0 +1,28 @@
+.nav__link--active {
+    color: $color-nav-link-active;
+}
+
+.navbar-brand{
+    margin-left: 90px;
+    font-family: $font;
+    font-size: 36px;
+    color: $color-nav-navbar-txt;
+}
+.navbar-toggler{
+    margin-right: 60px;
+}
+
+.navbar-collapse{
+    margin-right: 90px;
+}
+
+.navbar{
+    max-width: 100%;
+    background-color: $color-nav-bg;
+}
+
+.nav-item{
+    font-family: §font;
+    font-size: 18px;
+    color: $color-nav-menu-txt;
+}

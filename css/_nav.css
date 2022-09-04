@@ -1,0 +1,19 @@
+.nav__link--active {
+    color: #e5689d;
+}
+
+.navbar-brand{
+    margin-left: 90px;
+}
+.navbar-toggler{
+    margin-right: 60px;
+}
+
+.navbar-collapse{
+    margin-right: 90px;
+}
+
+.navbar{
+    max-width: 100%;
+    background-color: #F4F3EE;
+}
