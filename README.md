@@ -47,3 +47,7 @@ working.
 - I removed the link to cdn (bootstrap) in the index.html, but unfortunately that had the consequence that the styling of the navbar changed in an unpredicted way. And the cards were no longer restricted to showing maximum 4 cards in a row. Why is this?
 - The @media for the class footer-styling does not work. 
 
+## Link to Netlify
+https://stately-strudel-259e1c.netlify.app
+
+
